@@ -15,7 +15,7 @@ LifeCycleDefinitionGUID=
 RevisionNamingSchemeGUID=
 
 [OutputGroup1]
-Name=Job1.OutJob
+Name=kk_sem_ultrahang_hw.OutJob
 Description=
 TargetOutputMedium=New PDF
 VariantName=[No Variations]
@@ -26,7 +26,7 @@ PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate
 OutputMedium1=New PDF
 OutputMedium1_Type=Publish
 OutputType1=Schematic Print
-OutputName1=kk_sem_ultrahang_hw
+OutputName1=kk_sem_ultrahang_hw_sch
 OutputCategory1=Documentation
 OutputDocumentPath1=
 OutputVariantName1=
